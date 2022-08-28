@@ -1,4 +1,4 @@
-#Stream Widgets
+# Stream Widgets
 
 A suite of StreamLabs widgets I coded for a streamer friend, pro bono.
 Later shifted to StreamElements in order to make use of the SE.Pay integration.
