@@ -1,0 +1,66 @@
+{
+	"goal_title": {
+		"type": "text",
+		"label": "Goal Title",
+		"value": "Title"
+	},
+	"goal": {
+		"type": "number",
+		"label": "Donation Goal",
+		"value": 3000
+	},
+    "font_weight": {
+        "label": "Font Weight",
+        "type": "slider",
+        "name": "Font Weight",
+        "value": 500,
+        "max": 800,
+        "min": 100,
+        "steps": 50
+    },
+    "font_size": {
+        "label": "Font Size (px)",
+        "type": "slider",
+        "name": "Font Size",
+        "value": 18,
+        "max": 40,
+        "min": 5,
+        "steps": 1
+    },
+    "font_colour": {
+        "label": "Font Colour",
+        "type": "colorpicker",
+        "value": "#FFCE87"
+    },
+    "bar_size": {
+        "label": "Bar Size (px)",
+        "type": "slider",
+        "name": "Bar Size",
+        "value": 2,
+        "max": 40,
+        "min": 1,
+        "steps": 1
+    },
+    "bar_colour": {
+        "label": "Bar Colour",
+        "type": "colorpicker",
+        "value": "#FFCE87"
+    },
+    "marker_height": {
+        "label": "Marker Size (px)",
+        "type": "slider",
+        "name": "Marker Size",
+        "value": 18,
+        "max": 40,
+        "min": 1,
+        "steps": 1
+    },
+  "widgetName": {
+    "type": "hidden",
+    "value": "Uds Goal Bar"
+  },
+  "widgetAuthor": {
+    "type": "hidden",
+    "value": "Djindasel"
+  }
+}

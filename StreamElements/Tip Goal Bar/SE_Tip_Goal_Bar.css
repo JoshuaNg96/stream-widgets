@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+.goal-container {
+    font-family: "Montserrat";
+  	font-weight: {font_weight};
+  	font-size: {font_size}px; 
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.nums {
+  color: {font_colour};
+  display: flex;
+  justify-content: space-between;
+}
+
+.marker{
+  background-image: url("https://cdn.streamelements.com/uploads/07813323-ffe8-42d9-95a7-3829852ffeab.png");
+  height: {marker_height}px;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.bar{
+  width: auto;
+  background-color: {bar_colour};
+  height: {bar_size}px;
+  border-radius: 2px;
+}
