@@ -15,7 +15,7 @@
 }
 
 .marker{
-  background-image: url("https://cdn.streamelements.com/uploads/07813323-ffe8-42d9-95a7-3829852ffeab.png");
+  background-image: url("https://raw.githubusercontent.com/JoshuaNg96/stream-widgets/dbb81bf4031d32eb73a30ffc5cea9f443671b887/StreamElements/Tip%20Goal%20Bar/Marker.svg");
   height: {marker_height}px;
   background-repeat: no-repeat;
   position: relative;
